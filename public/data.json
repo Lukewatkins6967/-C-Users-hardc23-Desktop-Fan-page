@@ -1,0 +1,95 @@
+{
+  "name": "Lawson",
+  "school": "St Bede's",
+  "tagline": "A once-in-a-generation presence",
+  "stats": {
+    "charisma": 95,
+    "athleticism": 88,
+    "intelligence": 92,
+    "aura": 99,
+    "clutch": 94
+  },
+  "facts": [
+    "Teachers reportedly adjusted grading scales after witnessing Lawson.",
+    "Seen locking in during lunch like it's Game 7 and the camera crew somehow knew to arrive early.",
+    "There are whispers that one calm Lawson glance can reorganize a chaotic group assignment.",
+    "Multiple sources insist he carries himself like a player intro narrated by a major network voiceover.",
+    "The average school day gains 14% more narrative importance when Lawson is present."
+  ],
+  "timeline": [
+    {
+      "year": "2022",
+      "title": "Early sightings",
+      "detail": "Word spreads through the corridors that Lawson has that rare combination of composure, timing, and very serious main-character angles."
+    },
+    {
+      "year": "2023",
+      "title": "The class discourse shifts",
+      "detail": "Quietly becomes the most talked about individual in class, mostly by doing ordinary things with suspiciously high efficiency."
+    },
+    {
+      "year": "2024",
+      "title": "Random Tuesday peak",
+      "detail": "Peaks during a random Tuesday. Analysts still study the tape, searching for a rational framework."
+    },
+    {
+      "year": "2025",
+      "title": "Aura goes public",
+      "detail": "Public opinion settles on a new consensus: Lawson might actually be a premium-tier, once-in-a-generation human prospect."
+    },
+    {
+      "year": "2026",
+      "title": "Lore becomes official",
+      "detail": "A highly detailed fan dossier is commissioned because reality clearly needed better coverage."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Anonymous Insider",
+      "quote": "I've seen composure before. This was composure with production value.",
+      "label": "Hallway source",
+      "createdAt": "2026-03-22T08:30:00.000Z"
+    },
+    {
+      "name": "Film Room Enthusiast",
+      "quote": "The footwork is clean, the timing is elite, and somehow the aura grades out even higher than the tape.",
+      "label": "Scouting report",
+      "createdAt": "2026-03-24T03:10:00.000Z"
+    },
+    {
+      "name": "Concerned Statistician",
+      "quote": "We had to invent a new column for hallway gravitas. Lawson broke the old sheet.",
+      "label": "Data department",
+      "createdAt": "2026-03-25T11:55:00.000Z"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "arrival-energy",
+      "title": "Arrival Energy",
+      "caption": "A premium reconstruction of Lawson pulling up with the kind of calm that makes the entire setting look better produced.",
+      "tag": "Entrance footage",
+      "palette": ["#0ea5e9", "#111827", "#67e8f9"]
+    },
+    {
+      "id": "lunch-break-lock-in",
+      "title": "Lunch Break Lock-In",
+      "caption": "Witnesses reported unusual focus levels and what can only be described as quietly legendary posture.",
+      "tag": "Peak aura",
+      "palette": ["#f59e0b", "#7c3aed", "#f472b6"]
+    },
+    {
+      "id": "hallway-gravitas",
+      "title": "Hallway Gravitas",
+      "caption": "An exhibit dedicated to the unreasonable amount of franchise-player energy produced during standard movement.",
+      "tag": "Museum quality",
+      "palette": ["#22d3ee", "#0f766e", "#0f172a"]
+    }
+  ],
+  "quotes": [
+    "Scouts still disagree on whether Lawson is a player, a movement, or a highly organized weather system.",
+    "St Bede's produced many good days. Lawson somehow made them all look like featured programming.",
+    "The calm is real. The timing is cleaner. The aura remains under active investigation.",
+    "Every generation gets a few people who seem edited by professionals. Lawson is one of those cases."
+  ]
+}
